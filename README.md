@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website Screen Shot][product-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
+[![SQL Stock Image][product-screenshot]](https://github.com/p-sandher/learning-sql)
 
 This repo contains all the databases I used to learn SQL along with notes and code I created. I guided myself through an online tutorial listed below.
 
@@ -91,7 +91,7 @@ ReadME template is from
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: library-study-room.jpeg
+[product-screenshot]: SQL-Stock-Image.jpeg
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
